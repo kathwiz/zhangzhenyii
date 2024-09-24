@@ -1,0 +1,7 @@
+.ab {
+	float: left;
+	width: 185px;
+	background-image: url(inner.png);
+	background-repeat: no-repeat;
+	height: 30px;
+}
